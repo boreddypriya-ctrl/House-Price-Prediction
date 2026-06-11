@@ -1,11 +1,16 @@
 # House Price Prediction
 
-Machine Learning project using Linear Regression.
+This is a simple Machine Learning project that predicts house prices using Linear Regression.
 
-## Features
-- Predict house prices
-- Uses house area as input
-- Built using Python and Scikit-learn
+## Dataset
+- area
+- bedrooms
+- age
+- price
 
-## Output
-Predicted House Price: 360000.0
+## Model Used
+- Linear Regression (scikit-learn)
+
+## How to Run
+
+1. Install dependencies:
