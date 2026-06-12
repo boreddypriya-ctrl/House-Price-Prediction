@@ -1,5 +1,10 @@
 # 📊 House Price Prediction Project
 
+## Intern Details
+
+**Intern ID:** CITS4322
+
+## Project Overview 
 This is a Machine Learning project that predicts house prices using Linear Regression.
 
 ---
@@ -26,3 +31,6 @@ py house_price_prediction.py
 
 ## ⚙️ Installation
 pip install -r requirements.txt
+
+## Author
+B PriyaDharshini
