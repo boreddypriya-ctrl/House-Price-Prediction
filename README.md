@@ -33,4 +33,4 @@ py house_price_prediction.py
 pip install -r requirements.txt
 
 ## Author
-B PriyaDharshini
+B PRIYA DHARSHINI
